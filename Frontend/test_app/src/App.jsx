@@ -5,7 +5,7 @@ import viteLogo from './assets/vite.svg'
 import axios from 'axios'
 import './App.css'
 import { useEffect } from 'react'
-// main 
+// main  function
 function App() {
   const [jokes, setJokes] = useState([])
 
